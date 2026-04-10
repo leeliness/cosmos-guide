@@ -2,7 +2,7 @@
 
 A space-themed website I built to explore my interest in astronomy and frontend development. It features real NASA photos, information about key discoveries, and an animated star background.
 
-Live demo: cosmos-guide.vercel.app
+Live demo: https://cosmos-guide.vercel.app/
 
 ---
 
